@@ -1,4 +1,4 @@
-name: 'Destroy'
+name: 'Development Destroy'
 
 on: 
   workflow_dispatch:
