@@ -8,7 +8,8 @@ env:
   TF_LOG: INFO
 
 defaults:
-  shell: bash
+  run:
+    shell: bash
 
 jobs:
   terraform:
