@@ -42,5 +42,5 @@ jobs:
     - name: Show FileSystem
       run: ls -R
 
-    - name: Run Terraform Action
+    - name: Run Terraform Deploy Action
       uses: ./modules/.github/actions/terraformdeploy
